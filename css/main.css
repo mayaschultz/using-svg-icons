@@ -25,6 +25,11 @@ a {
   color: #76a500;
 }
 
+a.hover,
+a:focus {
+  color: #acc300;
+}
+
 .icon {
   position: relative;
   width: 8em;
